@@ -2,7 +2,7 @@
 ---
 
 [![Blog: nickfloyd](https://img.shields.io/badge/blog-archcoder-blue)](https://archcoder.com)
-[![Resume: nickfloyd](https://img.shields.io/badge/Resume-Nick%20FLoyd-blue)](https://represent.io/nickfloyd)
+[![Resume: nickfloyd](https://img.shields.io/badge/Resume-Nick%20Floyd-blue)](https://represent.io/nickfloyd)
 [![Book: NerdLifeBalance](https://img.shields.io/badge/book-Nerd%20Life%20Balance-red)](https://leanpub.com/nerdlifebalance)
 
 ---
