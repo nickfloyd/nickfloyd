@@ -1,16 +1,14 @@
 #### Hey-yo friends 👋
 ---
 
-[![Blog: nickfloyd](https://img.shields.io/badge/blog-archcoder-blue)](https://archcoder.com)
-[![Resume: nickfloyd](https://img.shields.io/badge/Resume-Nick%20Floyd-blue)](https://represent.io/nickfloyd)
-[![Book: NerdLifeBalance](https://img.shields.io/badge/book-Nerd%20Life%20Balance-red)](https://leanpub.com/nerdlifebalance)
+[![Blog: nickfloyd](https://img.shields.io/badge/blog-archcoder-blue?style=plastic)](https://archcoder.com)
+[![Resume: nickfloyd](https://img.shields.io/badge/Resume-Nick%20Floyd-blue?style=plastic)](https://represent.io/nickfloyd)
+[![Book: NerdLifeBalance](https://img.shields.io/badge/book-Nerd%20Life%20Balance-red?style=plastic)](https://leanpub.com/nerdlifebalance)
 
 ---
 
-[![Linkedin: nickfloyd](https://img.shields.io/badge/-nickfloyd-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/nickfloyd/)
-[![Twitter: nickfloyd](https://img.shields.io/twitter/follow/nickfloyd?style=social)](https://twitter.com/nickfloyd)
-
-
+[![Linkedin: nickfloyd](https://img.shields.io/badge/-nickfloyd-blue?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/nickfloyd/)
+[![Twitter: nickfloyd](https://img.shields.io/twitter/follow/nickfloyd?color=blue&label=twitter&logo=twitter&style=plastic)](https://twitter.com/nickfloyd)
 
 
 <!--
