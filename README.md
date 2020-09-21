@@ -7,6 +7,14 @@
 
 ---
 
+KEEPING SHARP | C# | C++ | GO | JAVASCRIPT
+
+[![Codewars: nickfloyd](https://www.codewars.com/users/nickfloyd/badges/micro)](https://www.codewars.com/users/nickfloyd)
+
+---
+
+SOCIAL
+
 [![Linkedin: nickfloyd](https://img.shields.io/badge/-nickfloyd-blue?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/nickfloyd/)
 [![Twitter: nickfloyd](https://img.shields.io/twitter/follow/nickfloyd?color=blue&label=twitter&logo=twitter&style=plastic)](https://twitter.com/nickfloyd)
 
