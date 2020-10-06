@@ -9,7 +9,7 @@
 
 KEEPING SHARP | C# | C++ | GO | JAVASCRIPT
 
-[![Codewars: nickfloyd](https://www.codewars.com/users/nickfloyd/badges/micro)](https://www.codewars.com/users/nickfloyd)
+[![Codewars: nickfloyd](https://www.codewars.com/users/nickfloyd/badges/large)](https://www.codewars.com/users/nickfloyd)
 
 ---
 
