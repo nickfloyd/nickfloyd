@@ -35,13 +35,15 @@
 🔢 THE NUMBERS
 
 <p align="left">
-<a href="https://github.com/nickfloyd">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nickfloyd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nickfloyd&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/nickfloyd">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nickfloyd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nickfloyd&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<p align="left">
+   <a href="https://holopin.io/@nickfloyd">
+    <img width="790em" src="https://holopin.me/nickfloyd" alt="@nickfloyd's Holopin board" />
+  </a> 
 </p>
 
 
-<a href="https://holopin.io/@nickfloyd">
-  <img src="https://holopin.me/nickfloyd" alt="@nickfloyd's Holopin board" />
-</a>
