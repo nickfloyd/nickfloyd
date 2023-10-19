@@ -40,3 +40,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nickfloyd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+<a href="https://holopin.io/@nickfloyd">
+  <img src="https://holopin.me/nickfloyd" alt="@nickfloyd's Holopin board" />
+</a>
